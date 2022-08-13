@@ -57,6 +57,7 @@ sites:
     url: https://s.soopy.moe
     expectedStatusCodes:
       - 301
+      - 404
   ###- name: Linkify (link shortener)
   ###  url: https://r.soopy.moe
 
