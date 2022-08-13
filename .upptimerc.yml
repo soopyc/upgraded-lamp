@@ -1,31 +1,113 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: soopyc # Your GitHub organization or username, where this repository lives
+repo: upgraded-lamp # The name of this repository
+user-agent: Upptime@koumakan (https://github.com/soopyc/upgraded-lamp)
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Cloudflare lol
+    url: https://soopy.moe
+
+  ## Actual services
+
+  # Misc
+  - name: Fallback/Landing site
+    url: https://gensokyo.soopy.moe
+
+  # Proxies
+  - name: Bibliogram
+    url: https://bib.soopy.moe
+  - name: Invidious
+    url: https://iv.soopy.moe
+  - name: Nitter
+    url: https://nitter.soopy.moe
+
+  # Assets/Static file serving
+  ## package mirrors
+  - name: Linux package mirror
+    url: https://keine.soopy.moe
+  - name: Sanae package repository
+    url: https://sanae.soopy.moe
+
+  ## asset servers
+  - name: Asset server
+    url: https://assets.soopy.moe
+
+  # User-generated content servers
+  - name: Hastebin
+    url: https://aya.soopy.moe
+  - name: Chibisafe
+    url: https://chen.soopy.moe
+  - name: Weblate
+    url: https://hatate.soopy.moe
+  - name: GitLab
+    url: https://koakuma.soopy.moe
+  - name: Docker Registry
+    url: https://wailord.soopy.moe/v2/
+    expectedStatusCodes:
+      - 401
+
+  # Private file host stuff
+  - name: Moe Moe
+    url: $MOEMOE
+  - name: Hatate
+    url: https://hatate.soopy.moe
+
+  # Forwarding services
+  - name: Synthesis Shortlinking
+    url: https://s.soopy.moe
+    expectedStatusCodes:
+      - 301
+  ###- name: Linkify (link shortener)
+  ###  url: https://r.soopy.moe
+
+  # Management
+  - name: Cockpit
+    url: https://reimu.soopy.moe
+  - name: Portainer
+    url: https://momiji.soopy.moe
+
+  # Monitoring
+  - name: Grafana
+    url: https://suika.soopy.moe
+  - name: GlitchTip
+    url: https://kaguya.soopy.moe
+
+  # Fediverse
+  - name: Matrix (Synapse)
+    url: https://nue.soopy.moe/_matrix/federation/v1/version
+  - name: Matrix (staging, Dendrite)
+    url: https://nue-staging.soopy.moe/_matrix/federation/v1/version
+  - name: Misskey
+    url: https://m.soopy.moe
+
+  # Image/Graph Generation
+  - name: Kroki
+    url: https://kroki.soopy.moe
+  - name: OSM Tile Server
+    url: https://kosuzu.soopy.moe/hk-tw/
+
+  ### dormant subdomains
+  # - name: Sakuya
+  #   url: https://sakuya.soopy.moe
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.soopy.moe
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+
+  name: Genokyo Status
+  introTitle: Monitoring gensokyo services
+  introMessage: Monitoring gensokyo services 1 subdomain at a time.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Repo
       href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  uptime: "*/3 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
