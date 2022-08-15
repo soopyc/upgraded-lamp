@@ -1,7 +1,7 @@
 url: $MOEMOE
-status: down
-code: 502
-responseTime: 644
-lastUpdated: 2022-08-15T17:12:26.783Z
+status: up
+code: 200
+responseTime: 907
+lastUpdated: 2022-08-15T19:23:55.804Z
 startTime: Sat Aug 13 2022 18:30:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
