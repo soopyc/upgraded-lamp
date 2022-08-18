@@ -1,4 +1,4 @@
-# Gensokyo Services Status
+# Gensokyo Service Status
 Status: <!--live status-->
 
 Web version: https://status.soopy.moe
