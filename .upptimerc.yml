@@ -47,8 +47,8 @@ sites:
       - 401
 
   # Private file host stuff
-  - name: Moe Moe
-    url: $MOEMOE
+  - name: Mochi
+    url: https://mochi.soopy.moe
   - name: Hatate
     url: https://hatate.soopy.moe
 
