@@ -16,12 +16,20 @@ sites:
   # Proxies + Bridges
   - name: Bibliogram
     url: https://bib.soopy.moe
-  - name: Invidious
-    url: https://iv.soopy.moe
   - name: Nitter
     url: https://nitter.soopy.moe
   - name: Lanyard
     url: https://shitcord.soopy.moe/397029587965575170.png
+  - name: Rimgo
+    url: https://pics.soopy.moe
+  - name: Piped
+    url: https://piped.soopy.moe
+  - name: Piped Proxy
+    url: https://p.piped.soopy.moe
+  - name: Piped Backend
+    url: https://b.piped.soopy.moe/status
+    expectedStatusCodes:
+      - 404
 
   # Assets/Static file serving
   ## package mirrors
