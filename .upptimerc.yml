@@ -14,8 +14,6 @@ sites:
     url: https://gensokyo.soopy.moe
 
   # Proxies + Bridges
-  - name: Bibliogram
-    url: https://bib.soopy.moe
   - name: Nitter
     url: https://nitter.soopy.moe
   - name: Lanyard
