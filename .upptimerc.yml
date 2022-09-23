@@ -41,8 +41,10 @@ sites:
     url: https://assets.soopy.moe
 
   # User-generated content servers
-  - name: Hastebin
+  - name: Pasty
     url: https://aya.soopy.moe
+  - name: Zer0bin
+    url: https://p.soopy.moe
   - name: Chibisafe
     url: https://chen.soopy.moe
   - name: Weblate
@@ -98,8 +100,6 @@ sites:
   # Image/Graph Generation
   - name: Kroki
     url: https://kroki.soopy.moe
-  - name: OSM Tile Server
-    url: https://kosuzu.soopy.moe/hk-tw/
 
   ### dormant subdomains
   # - name: Sakuya
