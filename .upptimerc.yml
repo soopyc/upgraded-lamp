@@ -12,6 +12,8 @@ sites:
   # Misc
   - name: Fallback/Landing site
     url: https://gensokyo.soopy.moe
+  - name: Discourse
+    url: https://f.soopy.moe
 
   # Proxies + Bridges
   - name: Nitter
