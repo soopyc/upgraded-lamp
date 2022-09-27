@@ -4,7 +4,7 @@ repo: upgraded-lamp # The name of this repository
 user-agent: Upptime@koumakan (https://github.com/soopyc/upgraded-lamp)
 
 sites:
-  - name: Cloudflare lol
+  - name: CV site
     url: https://soopy.moe
 
   ## Actual services
