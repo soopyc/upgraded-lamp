@@ -115,8 +115,10 @@ status-website:
   logoUrl: https://assets.soopy.moe/patchcon/256png/256_008.png
 
   name: Genokyo Status
-  introTitle: Monitoring gensokyo services
-  introMessage: Monitoring gensokyo services 1 subdomain at a time.
+  introTitle: Gensokyo services
+  introMessage: |
+    Monitoring gensokyo services 1 subdomain at a time.
+    Since github CI servers are in the US and the location of Gensokyo services is in HK (NOT us) the displayed latency will be very high
   navbar:
     - title: Status
       href: /
