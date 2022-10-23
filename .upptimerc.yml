@@ -30,6 +30,9 @@ sites:
     url: https://b.piped.soopy.moe/status
     expectedStatusCodes:
       - 404
+  - name: BreezeWiki
+    icon: https://nue.soopy.moe/_matrix/media/r0/download/cadence.moe/BHMiPtAvWqbwTwOkeQtubQCw
+    url: https://breeze.soopy.moe
 
   # Assets/Static file serving
   ## package mirrors
