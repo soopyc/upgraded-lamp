@@ -93,7 +93,7 @@
     "slug": "lanyard",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "89.31%",
+    "uptimeDay": "89.26%",
     "uptimeWeek": "98.47%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.65%",
@@ -103,7 +103,7 @@
     "timeMonth": 1915,
     "timeYear": 1978,
     "dailyMinutesDown": {
-      "2022-10-28": 154,
+      "2022-10-28": 155,
       "2022-10-05": 108,
       "2022-09-24": 9,
       "2022-09-12": 33
