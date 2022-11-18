@@ -1,7 +1,7 @@
 # Change these first
 owner: soopyc # Your GitHub organization or username, where this repository lives
 repo: upgraded-lamp # The name of this repository
-user-agent: Upptime@koumakan (https://github.com/soopyc/upgraded-lamp)
+user-agent: Upptime@genso (https://github.com/soopyc/upgraded-lamp)
 
 sites:
   - name: CV site
@@ -103,6 +103,8 @@ sites:
     url: https://nue-staging.soopy.moe/_matrix/federation/v1/version
   - name: Misskey
     url: https://m.soopy.moe
+  - name: Akkoma
+    url: https://a.soopy.moe
 
   # Image/Graph Generation
   - name: Kroki
