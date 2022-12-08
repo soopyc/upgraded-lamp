@@ -53,7 +53,7 @@ sites:
   - name: Chibisafe
     url: https://chen.soopy.moe
   - name: Weblate
-    url: https://hatate.soopy.moe
+    url: https://akyuu.soopy.moe
   - name: GitLab
     url: https://koakuma.soopy.moe
   - name: Gitea
