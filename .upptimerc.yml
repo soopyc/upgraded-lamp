@@ -72,8 +72,6 @@ sites:
   # Private file host stuff
   - name: Mochi
     url: https://mochi.soopy.moe
-  - name: Hatate
-    url: https://hatate.soopy.moe
 
   # Forwarding services
   - name: Synthesis Shortlinking
