@@ -1,7 +1,7 @@
 url: https://bp.soopy.moe
-status: up
-code: 200
-responseTime: 1052
-lastUpdated: 2023-01-25T08:53:44.441Z
+status: down
+code: 503
+responseTime: 1105
+lastUpdated: 2023-01-25T09:23:13.445Z
 startTime: Sun Aug 28 2022 09:34:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
