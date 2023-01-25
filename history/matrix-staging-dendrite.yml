@@ -1,7 +1,7 @@
 url: https://nue-staging.soopy.moe/_matrix/federation/v1/version
-status: down
-code: 502
-responseTime: 1778
-lastUpdated: 2023-01-25T09:23:34.329Z
+status: up
+code: 200
+responseTime: 752
+lastUpdated: 2023-01-25T09:29:20.082Z
 startTime: Sat Aug 13 2022 18:30:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
