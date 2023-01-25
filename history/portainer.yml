@@ -1,7 +1,7 @@
 url: https://momiji.soopy.moe
-status: up
-code: 200
-responseTime: 943
-lastUpdated: 2023-01-24T23:02:08.270Z
+status: down
+code: 503
+responseTime: 1097
+lastUpdated: 2023-01-25T09:23:23.216Z
 startTime: Sat Aug 13 2022 18:30:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
