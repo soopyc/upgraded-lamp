@@ -1,6 +1,9 @@
 # Gensokyo Service Status
-
 Status: <!--live status--> **🟧 Partial outage**
+
+We are migrating to a better host. This page will be deprecated.
+<details>
+<summary>Old readme</summary>
 
 Web version: https://status.soopy.moe
 
@@ -50,3 +53,4 @@ Web version: https://status.soopy.moe
 | <img alt="" src="https://icons.duckduckgo.com/ip3/kroki.soopy.moe.ico" height="13"> [Kroki](https://kroki.soopy.moe) | 🟩 Up | [kroki.yml](https://github.com/soopyc/upgraded-lamp/commits/HEAD/history/kroki.yml) | <details><summary><img alt="Response time graph" src="./graphs/kroki/response-time-week.png" height="20"> 1070ms</summary><br><a href="https://status.soopy.moe/history/kroki"><img alt="Response time 1367" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fresponse-time.json"></a><br><a href="https://status.soopy.moe/history/kroki"><img alt="24-hour response time 1065" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fresponse-time-day.json"></a><br><a href="https://status.soopy.moe/history/kroki"><img alt="7-day response time 1070" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fresponse-time-week.json"></a><br><a href="https://status.soopy.moe/history/kroki"><img alt="30-day response time 1106" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fresponse-time-month.json"></a><br><a href="https://status.soopy.moe/history/kroki"><img alt="1-year response time 1367" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fresponse-time-year.json"></a></details> | <details><summary><a href="https://status.soopy.moe/history/kroki">99.90%</a></summary><a href="https://status.soopy.moe/history/kroki"><img alt="All-time uptime 98.76%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fuptime.json"></a><br><a href="https://status.soopy.moe/history/kroki"><img alt="24-hour uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fuptime-day.json"></a><br><a href="https://status.soopy.moe/history/kroki"><img alt="7-day uptime 99.90%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fuptime-week.json"></a><br><a href="https://status.soopy.moe/history/kroki"><img alt="30-day uptime 99.83%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fuptime-month.json"></a><br><a href="https://status.soopy.moe/history/kroki"><img alt="1-year uptime 98.76%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoopyc%2Fupgraded-lamp%2FHEAD%2Fapi%2Fkroki%2Fuptime-year.json"></a></details>
 
 <!--end: status pages-->
+</details>
